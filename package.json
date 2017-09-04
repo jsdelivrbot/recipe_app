@@ -1,0 +1,24 @@
+{
+  "name": "recipes",
+  "version": "1.0.0",
+  "description": "recipes manager",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aws",
+  "license": "ISC",
+  "dependencies": {
+  	"body-parser": "*",
+  	"consolidate": "*",
+  	"dust": "*",
+  	"dustjs-helpers": "*",
+  	"dustjs-linkedin": "*",
+  	"express": "*",
+  	"pg": "*"
+  }, 
+  "engines":{
+    "node": "6.11.1"
+  }
+}
