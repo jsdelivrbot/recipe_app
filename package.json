@@ -4,7 +4,7 @@
   "description": "recipes manager",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon app.js",
+    "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Aws",
@@ -20,5 +20,9 @@
   }, 
   "engines":{
     "node": "6.11.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aousla/recipe_app"
   }
 }
