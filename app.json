@@ -2,7 +2,7 @@
   "name": "Recipe application",
   "description": "using heroku to deploy application",
   "repository": "https://github.com/aousla/recipe_app",
-  "logo": "https://cdn.rawgit.com/heroku/node-js-getting-started/master/public/node.svg",
+  "logo": "https://cdn.jsdelivr.net/gh/heroku/node-js-getting-started/public/node.svg",
   "keywords": ["node", "express", "heroku", "postgres"],
   "image": "heroku/nodejs"
 }
